@@ -15,7 +15,7 @@ body:
       options:
         - label: I agree to follow the [Code of Conduct](https://cider.sh/legal/conduct) that this project adheres to.
           required: true
-        - label: I have searched the [issue tracker](https://www.github.com/ciderapp/CiderUWP-BugTracker) for a bug report that matches the one I want to file, without success.
+        - label: I have searched the [issue tracker](https://github.com/ciderapp/CiderUWP-BugTracker/issues) for a bug report that matches the one I want to file, without success.
           required: true
         - label: I have read the [troublshooting FAQs](https://cider.gitbook.io/welcome-to-gitbook/support/faqs) and none solved my issue. (* These are outdated and may not necessarily be possible in the current app version. *)
           required: true
