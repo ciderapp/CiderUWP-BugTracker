@@ -1,5 +1,2 @@
-# CiderUWP-BugTracker
-Quick bugtracker for use with Cider 2.x UWP, DO NOT FILE ELECTRON RELATED RELEASE BUGS HERE.
-
-# NOTICE
-Cider-UWP has been abandoned in favor of Cider-Fujisan. This is coming to the Microsoft Store soon, but current builds can be found in the alpha/beta donator channels.
+# READ ME BEFORE MAKING ISSUES
+Cider-UWP & Cider-Fujisan have been abandoned in favor of Cider-Sabiiro. Please update your clients and if the issue persists you can submit requests [here](https://github.com/ciderapp/Sabiiro-BugTracker/issues).
