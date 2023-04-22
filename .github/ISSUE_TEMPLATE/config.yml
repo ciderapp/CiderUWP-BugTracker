@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: README
+    url: https://github.com/ciderapp/Sabiiro-BugTracker/issues
+    about: Cider-UWP & Cider-Fujisan have been abandoned in favor of Cider-Sabiiro. Please update your clients and if the issue persists you can submit requests here.
